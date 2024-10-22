@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+#board {
+    background-image: url("images/bg for game.jpg");
+}
+
+.start-screen {
+    background-image: url("images/bg for game.jpg");
+    height: 70rem;
+    width: 1000rem;
+}
